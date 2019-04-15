@@ -5,5 +5,5 @@ end
 
 def array_with_two_elements
     my_two_array = ["hi", 1]
-    puts my_two_array
+    return my_two_array
 end
